@@ -1,0 +1,50 @@
+.buy-now{
+    background-image: linear-gradient(to bottom, #494849 0%, rgba(108, 105, 105, 0.99) 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.carousel-background-image{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-size:contain;
+}
+.carousel-background{
+    background-image: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    background-size:8%;
+    background-position: bottom left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 768px){
+    .navbar-expand-md .navbar-nav .nav-link {
+        padding-right: 20px;
+        padding-left: 20px;
+        font-size: 18px;
+    }
+}
